@@ -1,5 +1,5 @@
 <h3> Hi there, I'm Jessica! 👋 </h3>
-![banner](file:///Users/jessica/Desktop/banner.png)
+![banner](https://github.com/jnoel01/images/blob/main/banner.png)
 <h4> I'm currently a second year Computer Science major at Stevens Insitute of Technology and loving every second of it! </h4>
 
 <h3> Languages I have worked with in my respositories are... </h3>

@@ -1,6 +1,4 @@
 <h3> Hi there, I'm Jessica 👋 </h3>
-<br>
-
 <h2> Languages I have worked with in my respositories are... </h2>
 <ul>
   <li> ✨ Python </li>

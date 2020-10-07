@@ -4,12 +4,12 @@
 <h3> Languages I have worked with in my respositories are... </h3>
 
 <p>
-✨ Python <br>
+<strong> ✨ Python <br>
 🌈 Java <br>
 🍂 C++ <br>
 🌻 Racket <br>
 🌲 HTML, CSS <br>
-🍄 Javascript <br>
+🍄 Javascript <br><strong>
 </p>
 
 

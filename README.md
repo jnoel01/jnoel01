@@ -1,4 +1,5 @@
 <h3> Hi there, I'm Jessica! 👋 </h3>
+![GitHub Banner](banner.jpg)
 <h4> I'm currently a second year Computer Science major at Stevens Insitute of Technology and loving every second of it! </h4>
 
 <h3> Languages I have worked with in my respositories are... </h3>

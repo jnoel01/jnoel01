@@ -6,7 +6,7 @@
 <p>
 <strong> ✨ Python <br>
 🌈 Java <br>
-🍂 C++ <br>
+🍂 C & C++ <br>
 🌻 Racket <br>
 🌲 HTML, CSS <br>
 🍄 Javascript <br><strong>

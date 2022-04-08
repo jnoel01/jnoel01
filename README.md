@@ -7,8 +7,9 @@
 <strong> ✨ Python <br>
 🌈 Java <br>
 🍂 C & C++ <br>
+🌵 Bash <br>
 🌻 Racket <br>
-🌲 HTML, CSS <br>
+🌲 HTML, CSS, Handlebars <br>
 🍄 Javascript <br><strong>
 </p>
   

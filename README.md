@@ -1,5 +1,5 @@
 <img src="https://github.com/jnoel01/images/blob/main/banner.png">
-<h4> Hi there, I'm Jessica! 👋 I'm currently a third year Computer Science major at Stevens Insitute of Technology and loving every second of it! </h4>
+<h4> Hi there, I'm Jessica! 👋 I'm currently a senior Computer Science major at Stevens Insitute of Technology and loving every second of it! </h4>
 
 <h3> Languages I have worked with in my respositories are... </h3>
 
@@ -9,7 +9,7 @@
 🍂 C & C++ <br>
 🌵 Bash <br>
 🌻 Racket <br>
-🌲 HTML, CSS, Handlebars <br>
+🌲 HTML, CSS, Handlebars, SCSS <br>
 🍄 Javascript <br><strong>
 </p>
   

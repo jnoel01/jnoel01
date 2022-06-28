@@ -1,5 +1,5 @@
-<img src="https://github.com/jnoel01/images/blob/main/banner.png">
-<h4> Hi there, I'm Jessica! 👋 I'm currently a senior Computer Science major at Stevens Insitute of Technology and loving every second of it! </h4>
+<img src="https://gyazo.com/14c39728e0a4a9c4aa39c2d0f458f059">
+<h4> Hi there, I'm Jessica! 👋 I'm currently a senior Computer Science major at Stevens Insitute of Technology and loving every second of it! (This sounded better when I said I'm a second year) </h4>
 
 <h3> Languages I have worked with in my respositories are... </h3>
 

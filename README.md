@@ -15,6 +15,7 @@
 🦩 Promela <br>
 🕺 Groovy <br>
 🐝 Haskell <br>
+📉 SQL <br>
 </p>
   
 ![Jessica's github stats](https://github-readme-stats.vercel.app/api?username=jnoel01&show_icons=true&theme=solarized-light)

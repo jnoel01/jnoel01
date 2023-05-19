@@ -1,5 +1,5 @@
 
-<h4> Hi there, I'm Jessica! 👋 I'm currently a senior Computer Science major at Stevens Insitute of Technology and loving every second of it! (This sounded better when I said I'm a second year) </h4>
+<h4> Hi there, I'm Jessica! 👋 I'm a former graduate from Stevens Insitute of Technology (Computer Science major) and currently a software engineer in the pharmaceutical industry</h4>
 
 <h3> Languages I have worked with in my respositories are... </h3>
 
